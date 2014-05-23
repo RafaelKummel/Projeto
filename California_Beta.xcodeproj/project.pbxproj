@@ -382,6 +382,7 @@
 				GCC_PREFIX_HEADER = "California_Beta/California_Beta-Prefix.pch";
 				INFOPLIST_FILE = "California_Beta/California_Beta-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -395,6 +396,7 @@
 				GCC_PREFIX_HEADER = "California_Beta/California_Beta-Prefix.pch";
 				INFOPLIST_FILE = "California_Beta/California_Beta-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -458,6 +460,7 @@
 				8CAD474F192BE54F00F7CBC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8CAD4750192BE54F00F7CBC2 /* Build configuration list for PBXNativeTarget "California_BetaTests" */ = {
 			isa = XCConfigurationList;
@@ -466,6 +469,7 @@
 				8CAD4752192BE54F00F7CBC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
